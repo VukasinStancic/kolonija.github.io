@@ -1,0 +1,145 @@
+h1
+{
+	text-align:center;
+	text-decoration:bold;
+	padding:30px;
+}
+.iskacucimeni
+{
+	position:relative;
+	float:left;
+	width:33.3%;
+}
+.iskacucedugme
+{
+	background-color:#666699;
+	color:white;
+	padding:12px 16px;
+	font-size:16px;
+	border:none;
+	width:100%;
+	text-align:center;
+}
+.iskacucedugme:hover
+{
+	background-color:#ff9999;
+}
+.iskacucimeni-sadrzaj
+{
+	display:none;
+	position:absolute;
+	background-color:gray;
+	min-width:100%;
+	box-shadow:0px 8px 16px 9px gray;
+	z-index:1;
+}
+.iskacucimeni-sadrzaj a
+{
+	display:block;
+	padding:10px 12px;
+	text-align:center;
+	text-decoration:none;
+	color:#ff3300;
+	font-family:Arial;
+	font-weight:bold;
+}
+.iskacucimeni:hover .iskacucimeni-sadrzaj
+{
+	display:block;
+}
+.iskacucimeni-sadrzaj a:hover
+{
+	background-color:blue;
+	color:red;
+}
+#div1
+{
+	background-color:#666699;
+	height:100px;
+	border-bottom:3px solid black;
+}
+#slika
+{
+	float:left;
+	width:80px;
+	height:80%;
+	padding:10px;
+	padding:10px;
+	
+	
+}
+.slider-container {
+    width: 100%;
+    position: center;
+    margin: auto;
+    overflow: hidden;
+    height: 700px;
+    background-color: black;
+  }
+
+  .slider {
+    display: flex;
+    transition: transform 0.5s ease;
+  }
+
+  .slide {
+    flex: 0 0 100%;
+    width: 100%;
+  }
+
+ .slika1 {
+    width: 40%;
+    vertical-align: top;
+	position:relative;
+	right:-430px;
+	
+  }
+  .slika2
+  {
+	width: 1600px;
+    vertical-align: top;
+	/*position:relative;
+	right:-380px;*/
+  }
+  .slika3
+  {
+	  width: 1900px;
+	  vertical-align: top;
+	  height:100%;
+  }
+
+  .prev, .next {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: auto;
+    padding: 16px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+    background-color: rgba(0, 0, 0, 0.5);
+  }
+
+  .prev {
+    left: 0;
+    border-radius: 3px 0 0 3px;
+  }
+
+  .next {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+  }
+
+  .prev:hover, .next:hover {
+    background-color: rgba(0, 0, 0, 0.8);
+  }
+  #golovi
+  {
+	  text-decoration:none;
+	  color:white;
+	  
+  }

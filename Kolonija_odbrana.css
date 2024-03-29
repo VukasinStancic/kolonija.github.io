@@ -1,0 +1,183 @@
+body
+{
+	text-align:justify;
+	background-color:#666699;
+}
+h1
+{
+	
+
+	text-align:center;
+	text-decoration:bold;
+	font-size:50px;
+	
+}
+h3
+{
+	text-align:center;
+	text-decoration:bold;
+	font-size:40px;
+}
+#slika1
+{
+	position:relative;
+	width:23%;
+	height:600px;
+	right:-100px;
+	top:-630px;
+	
+}
+#p1
+{
+	position:relative;
+	font-weight:bold;
+	font-size:25px;
+	right:-260px;
+	top:-630px;
+
+}
+#slika2
+{
+	position:relative;
+	width:23%;
+	height:600px;
+	right:-720px;
+	top:-1310px;
+	
+}
+#p2
+{
+	position:relative;
+	font-weight:bold;
+	font-size:25px;
+	right:-860px;
+	top:-1310px;
+}
+#slika3
+{
+	position:relative;
+	width:23%;
+	height:600px;
+	right:-1340px;
+	top:-1990px;
+}
+#p3
+{
+	position:relative;
+	font-weight:bold;
+	font-size:25px;
+	right:-1490px;
+	top:-1990px;
+}
+#h3
+{
+	text-align:center;
+	text-decoration:bold;
+	font-size:40px;
+	position:relative;
+	top:-3350px;
+	
+}
+#slika4
+{
+	position:relative;
+	width:23%;
+	height:600px;
+	right:-100px;
+	top:-3275px;
+}
+#p4
+{
+	position:relative;
+	font-weight:bold;
+	font-size:25px;
+	right:-230px;
+	top:-3275px;
+}
+#slika5
+{
+	position:relative;
+	width:23%;
+	height:600px;
+	right:-720px;
+	top:-4640px;
+}
+#p5
+{
+	position:relative;
+	font-weight:bold;
+	font-size:25px;
+	right:-890px;
+	top:-4640px;
+}
+#slika6
+{
+	position:relative;
+	width:23%;
+	height:600px;
+	top:1015px;
+	right:-1350px;
+}
+#p6
+{
+	position:relative;
+	font-weight:bold;
+	font-size:25px;
+	top:1015px;
+	right:-1500px;
+}
+#bekovi
+{
+	text-align:center;
+	text-decoration:bold;
+	font-size:40px;
+	position:relative;
+	top:-2250px;
+}
+#slika7
+{
+	position:relative;
+	width:23%;
+	height:600px;
+	top:-690px;
+	right:-100px;
+}
+#slika8
+{
+	position:relative;
+	width:23%;
+	height:600px;
+	top:-1370px;
+	right:-720px;
+}
+#p7
+{
+	position:relative;
+	font-weight:bold;
+	font-size:25px;
+	top:-690px;
+	right:-230px;
+}
+#p8
+{
+	position:relative;
+	font-weight:bold;
+	font-size:25px;
+	top:-1370px;
+	right:-860px;
+}
+#slika9
+{
+	position:relative;
+	width:23%;
+	height:600px;
+	top:-2925px;
+	right:-1330px;
+}
+#p9
+{
+	position:relative;
+	font-weight:bold;
+	font-size:25px;
+	top:-2925px;
+	right:-1480px;
